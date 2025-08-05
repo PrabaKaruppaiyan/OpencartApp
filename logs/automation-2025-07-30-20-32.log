@@ -1,0 +1,56 @@
+05:14:02.113 [main] INFO  testCases.TC002_LoginValidation - Email Address passed
+05:14:02.220 [main] INFO  testCases.TC002_LoginValidation - Password passed
+05:14:02.945 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login
+22:44:36.470 [main] INFO  testCases.TC002_LoginValidation - ***Starting Login Validation Testing***
+22:44:36.585 [main] INFO  testCases.TC002_LoginValidation - MyAccount Link is clicked
+22:44:37.429 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login Link
+22:44:37.547 [main] INFO  testCases.TC002_LoginValidation - Email Address passed
+22:44:37.617 [main] INFO  testCases.TC002_LoginValidation - Password passed
+22:44:37.689 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login
+22:44:39.965 [main] INFO  testCases.TC001_AccountRegistration - ***** Starting TC001_AccountRegistration*****
+22:44:40.063 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccount
+22:44:40.395 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+22:44:40.398 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+22:44:41.612 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Continue Button
+22:44:41.650 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected Message
+22:44:41.650 [main] INFO  testCases.TC001_AccountRegistration - ***** TC001_AccountRegistration testing Ended*****
+11:16:43.120 [main] INFO  testCases.TC002_LoginValidation - ***Starting Login Validation Testing***
+11:16:43.251 [main] INFO  testCases.TC002_LoginValidation - MyAccount Link is clicked
+11:16:43.473 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login Link
+11:16:43.610 [main] INFO  testCases.TC002_LoginValidation - Email Address passed
+11:16:43.678 [main] INFO  testCases.TC002_LoginValidation - Password passed
+11:16:43.756 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login
+11:16:46.283 [main] INFO  testCases.TC001_AccountRegistration - ***** Starting TC001_AccountRegistration*****
+11:16:46.633 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccount
+11:16:46.958 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+11:16:46.959 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+11:16:48.212 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Continue Button
+11:16:48.251 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected Message
+11:16:48.251 [main] INFO  testCases.TC001_AccountRegistration - ***** TC001_AccountRegistration testing Ended*****
+14:35:40.076 [main] INFO  testCases.TC002_LoginValidation - ***Starting Login Validation Testing***
+14:35:40.578 [main] INFO  testCases.TC002_LoginValidation - MyAccount Link is clicked
+14:35:40.857 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login Link
+14:35:41.051 [main] INFO  testCases.TC002_LoginValidation - Email Address passed
+14:35:41.162 [main] INFO  testCases.TC002_LoginValidation - Password passed
+14:35:41.270 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login
+14:35:53.964 [main] INFO  testCases.TC001_AccountRegistration - ***** Starting TC001_AccountRegistration*****
+14:35:54.104 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccount
+14:35:54.472 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+14:35:54.475 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+14:35:56.064 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Continue Button
+14:35:56.113 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected Message
+14:35:56.113 [main] INFO  testCases.TC001_AccountRegistration - ***** TC001_AccountRegistration testing Ended*****
+15:11:25.894 [main] INFO  testCases.TC002_LoginValidation - ***Starting Login Validation Testing***
+15:11:26.370 [main] INFO  testCases.TC002_LoginValidation - MyAccount Link is clicked
+15:11:26.673 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login Link
+15:11:26.873 [main] INFO  testCases.TC002_LoginValidation - Email Address passed
+15:11:26.993 [main] INFO  testCases.TC002_LoginValidation - Password passed
+15:11:27.105 [main] INFO  testCases.TC002_LoginValidation - Clicked on Login
+20:31:16.600 [main] INFO  testCases.TC001_AccountRegistration - ***** Starting TC001_AccountRegistration*****
+20:31:16.712 [main] INFO  testCases.TC001_AccountRegistration - Clicked on MyAccount
+20:31:17.013 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Register link
+20:31:17.016 [main] INFO  testCases.TC001_AccountRegistration - Providing Customer Details
+20:31:17.655 [main] INFO  testCases.TC001_AccountRegistration - Clicked on Continue Button
+20:31:18.274 [main] INFO  testCases.TC001_AccountRegistration - Validating Expected Message
+20:31:18.276 [main] INFO  testCases.TC001_AccountRegistration - ***** TC001_AccountRegistration testing Ended*****
+20:32:30.385 [main] INFO  testCases.TC001_AccountRegistration - ***** Starting TC001_AccountRegistration*****
